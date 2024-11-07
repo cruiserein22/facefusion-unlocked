@@ -25,7 +25,7 @@ MODELS : Dict[str, ModelValue] =\
 	}
 }
 PROBABILITY_LIMIT = 0.99
-RATE_LIMIT = 5
+RATE_LIMIT = 5000
 STREAM_COUNTER = 0
 
 
