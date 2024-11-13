@@ -2,6 +2,7 @@ numpy==1.26.4
 basicsr #==1.4.2
 filetype #==1.2.0
 gradio
+accelerate
 onnxruntime-gpu #==1.16.0
 onnx #==1.15.0
 onnxruntime #==1.16.3
