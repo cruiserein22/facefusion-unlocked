@@ -37,7 +37,7 @@ pandas
 protobuf
 basicsr
 # #==3.20.3
-numpy
+#numpy
 # #==1.26.4
 onnx
 # #==1.17.0
