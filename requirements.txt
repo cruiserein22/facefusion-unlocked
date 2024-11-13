@@ -1,15 +1,56 @@
-basicsr==1.4.2
-filetype==1.2.0
+basicsr #==1.4.2
+filetype #==1.2.0
 gradio
-onnxruntime-gpu==1.16.0
-numpy==1.26.1
-onnx==1.15.0
-onnxruntime==1.16.3
-opencv-python==4.8.1.78
-psutil==5.9.6
-realesrgan==0.3.0
+onnxruntime-gpu #==1.16.0
+numpy #==1.26.1
+onnx #==1.15.0
+onnxruntime #==1.16.3
+opencv-python #==4.8.1.78
+psutil #==5.9.6
+realesrgan #==0.3.0
 torch
 torchvision
 torchaudio
-tqdm==4.66.1
+tqdm
+# #==4.66.1
 torchdiffeq
+#filetype #==1.2.0
+#gradio #==4.44.0
+#gradio-rangeslider #==0.0.6
+#numpy #==2.1.0
+#onnx #==1.16.1
+#onnxruntime #==1.19.2
+#opencv-python #==4.10.0.84
+#psutil #==6.0.0
+#tqdm #==4.66.5
+#scipy #==1.14.1
+#####
+#####
+#--extra-index-url https://download.pytorch.org/whl/cu118
+filetype
+torchdiffeq
+#gradio
+# #==3.50.2
+gradio
+pandas
+# #==2.1.4
+protobuf
+basicsr
+# #==3.20.3
+numpy
+# #==1.26.4
+onnx
+# #==1.17.0
+onnxruntime-gpu
+# #==1.17.0
+# #==1.17.0
+#onnxruntime-gpu
+onnxruntime
+opencv-python
+psutil
+tqdm
+scipy
+torch
+torchvision
+torchaudio
+
